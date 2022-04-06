@@ -1,5 +1,4 @@
-# data_science
-Data science projects and exercises.
+# Data science projects and exercises.
 
 ## 1. 
   - Leia o notebook do projeto: [Análise de Dados - Amazon Music](https://github.com/barbaramit/jogando-os-dados/blob/main/An%C3%A1lise_de_Dados_Amazon_Music.ipynb).
@@ -26,7 +25,7 @@ Data science projects and exercises.
     - 💡 Google Colaboratory.    
     
  ## Exercício 1: Previsão de Vendas
-  - Leia o notebook do projeto: [Exercício de Previsão de Vendas.ipynb](https://github.com/barbaramit/jogando-os-dados/blob/main/An%C3%A1lise_de_Dados_Spotify.ipynb).
+  - Leia o notebook do projeto: [Exercício de Previsão de Vendas.ipynb](https://github.com/barbaramit/data_projects/blob/main/Exerc%C3%ADcio_de_Previs%C3%A3o_de_Vendas.ipynb).
 
 ###  🚀 Ferramentas 
 
