@@ -5,7 +5,7 @@
 
 ###  🚀 Ferramentas 
 
-    - 💻 Bibliotecas: Pandas, Seaborn, Matplotlib, Wordcloud e Selenium.
+    - 💻 Bibliotecas: Pandas, Missingno, Seaborn, Matplotlib, Numpy, Scikit-learn e imblearn.
     - 💡 Google Colaboratory.
 
     
